@@ -1,6 +1,6 @@
-YouTube Dataset Analysis - MapReduce Design Patterns using Apache Hadoop, Pig, Hive
+# YouTube Dataset Analysis - MapReduce Design Patterns using Apache Hadoop, Pig, Hive
 
-University group project for Advanced Hadoop MapReduce Programming for Big Data Analytics course.
+## University group project for Advanced Hadoop MapReduce Programming for Big Data Analytics course.
 
 •	Implemented Apache Hadoop big data framework to analyze data with help of HDFS, map-reduce design patterns, Pig, HBase.
 
@@ -8,13 +8,13 @@ University group project for Advanced Hadoop MapReduce Programming for Big Data 
 
 •	Manifested Datawarehouse using Apache Hive 
 
-Problem Statement :-
+### Problem Statement :-
 
 Analyze the Youtube open source API Big dataset using Hadoop, Pig and HIVE based on different column 
 fields to provide various comprehensive insights
 
 
-Summary :-
+### Summary :-
 
 The dataset was available on the following Url:
 
@@ -46,7 +46,8 @@ related IDs: up to 20 strings of the related video IDs
 
 
 
-Datasets of User Information
+### Datasets of User Information:-
+
 We have collected the information about YouTube users. The crawler retrieves information on the
 number of uploaded videos and friends of each user from the YouTube API, for a total of more than 1
 million users. There is "user.txt", containing the information of number of uploads, watches and friends
