@@ -2,6 +2,8 @@
 
 ## University group project for Advanced Hadoop MapReduce Programming for Big Data Analytics course.
 
+![image](https://user-images.githubusercontent.com/57429405/125012988-10876b00-e039-11eb-8372-eb6d48e8bc24.png)
+
 •	Implemented Apache Hadoop big data framework to analyze data with help of HDFS, map-reduce design patterns, Pig, HBase.
 
 •	Implemented Data flow language Apache pig built on top of Hadoop to execute Pig Scripts for BIg Data Analysis
